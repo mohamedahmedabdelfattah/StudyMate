@@ -1,0 +1,92 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="StudyMate.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Sub1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Sub1.rar</Value>
+    </Setting>
+    <Setting Name="Sub2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Sub2.rar</Value>
+    </Setting>
+    <Setting Name="Sub3" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Sub3.rar</Value>
+    </Setting>
+    <Setting Name="Sub4" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Sub4.rar</Value>
+    </Setting>
+    <Setting Name="Sub5" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Sub5.rar</Value>
+    </Setting>
+    <Setting Name="Extra1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Extra1.rar</Value>
+    </Setting>
+    <Setting Name="Extra2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Extra2.rar</Value>
+    </Setting>
+    <Setting Name="Extra3" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Extra3.rar</Value>
+    </Setting>
+    <Setting Name="Extra4" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Extra4.rar</Value>
+    </Setting>
+    <Setting Name="Sub1Lec" Type="System.Uri" Scope="Application">
+      <Value Profile="(Default)">http://www.dropbox.com/lec1</Value>
+    </Setting>
+    <Setting Name="Sub2Lec" Type="System.Uri" Scope="Application">
+      <Value Profile="(Default)">http://www.dropbox.com/lec2</Value>
+    </Setting>
+    <Setting Name="Sub3Lec" Type="System.Uri" Scope="Application">
+      <Value Profile="(Default)">http://www.dropbox.com/lec3</Value>
+    </Setting>
+    <Setting Name="Sub4Lec" Type="System.Uri" Scope="Application">
+      <Value Profile="(Default)">http://www.dropbox.com/lec4</Value>
+    </Setting>
+    <Setting Name="Sub5Lec" Type="System.Uri" Scope="Application">
+      <Value Profile="(Default)">http://www.dropbox.com/lec5</Value>
+    </Setting>
+    <Setting Name="Sub1Lab" Type="System.Uri" Scope="Application">
+      <Value Profile="(Default)">http://www.dropbox.com/lab1</Value>
+    </Setting>
+    <Setting Name="Sub2Lab" Type="System.Uri" Scope="Application">
+      <Value Profile="(Default)">http://www.dropbox.com/lab2</Value>
+    </Setting>
+    <Setting Name="Sub3Lab" Type="System.Uri" Scope="Application">
+      <Value Profile="(Default)">http://www.dropbox.com/lab3</Value>
+    </Setting>
+    <Setting Name="Sub4Lab" Type="System.Uri" Scope="Application">
+      <Value Profile="(Default)">http://www.dropbox.com/lab4</Value>
+    </Setting>
+    <Setting Name="Sub5Lab" Type="System.Uri" Scope="Application">
+      <Value Profile="(Default)">http://www.dropbox.com/lab5</Value>
+    </Setting>
+    <Setting Name="Extra1Link" Type="System.Uri" Scope="Application">
+      <Value Profile="(Default)">http://www.dropbox.com/e1</Value>
+    </Setting>
+    <Setting Name="Extra2Link" Type="System.Uri" Scope="Application">
+      <Value Profile="(Default)">http://www.dropbox.com/e2</Value>
+    </Setting>
+    <Setting Name="Extra3Link" Type="System.Uri" Scope="Application">
+      <Value Profile="(Default)">http://www.dropbox.com/e3</Value>
+    </Setting>
+    <Setting Name="Extra4Link" Type="System.Uri" Scope="Application">
+      <Value Profile="(Default)">http://www.dropbox.com/e4</Value>
+    </Setting>
+    <Setting Name="UserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Website" Type="System.Uri" Scope="Application">
+      <Value Profile="(Default)">www.dropbox.com/StudyMate</Value>
+    </Setting>
+    <Setting Name="FirstRun" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="StudyMateConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=.;Initial Catalog=StudyMate;Integrated Security=True&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=.;Initial Catalog=StudyMate;Integrated Security=True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,54 @@
+﻿FIX:
+----
+- Add check for internet connection before doing any db connection
+
+
+Work in progress:
+- IMPLEMENT Advisor Tab
+  Fill UpdatesViewer with the changed timestamp files only
+  will show built-in content updates using time stamp on downloaded or uploaded files.
+
+- thank me 'donate' btn to show appreciation
+  change report a bug to contact me, show a form to choose  show appreciation or to report a bug.
+
+- DETECT Program Errors
+  using try & catch all over the program
+  catch ex.Message
+  may send it to the database automatically or by asking the user.
+  Don't Send - Send Report
+
+- IMPLEMENT 'No Content Update Exit'
+- IMPLEMENT 'Auto Content Update' for built in subs.
+- ADD protection against running the application using a database value.
+- PREVENT running if no internet connection exists like Kaspersky Kingdom
+
+
+BEFORE PUBLIC RELEASE:
+- UPDATE URI StudyMateLink in CheckForUpdatesFrm and MainFrm -> bgAutoUpdateCheck
+- UPDATE Assembly Information
+- CHECK AboutFrm
+- CHECK WelcomeFrm
+- CHECK HelpFrm
+- UPDATE all project Properties
+
+
+Future Work:
+- Build Arabic Language
+- Sync users setting across account
+  save each user setting to the database users.
+
+- ADD Search function to search names or authors, type text to search for & search btn in the getothers tab.
+- UPGRADE adding files to upload files to my dropbox.com.
+- Move the Built-in general material data from the settings to the database.
+
+
+CONSIDER:
+- Make it for all years.
+- News OR Updates Section.
+- Publish the app on github "update Method".
+- Available as open source with a user agreement to keep the original developer copyrights.
+
+
+Dropbox Form:
+using a webbrowser inside the app
+<script type="text/javascript" src="http://www.jotform.com/form/20402304503"></script>
